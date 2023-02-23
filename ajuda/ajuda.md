@@ -1,13 +1,9 @@
 ## Ajuda - Geral
 
-Oi! 😃 Esta é a página de ajuda da Godly  Radio!
+Para sanar suas dúvidas, escolha a categoria que procura.
 
-Aqui, você vai encontrar suas principais dúvidas.
-
-Se ainda assim não encontrar o que procura, você pode perguntar no <a href="https://discord.com/invite/XjupgHw3Fj" target="_blank">servidor da Godly</a>
+Se não encontrar o que deseja, entre no <a href="https://discord.com/invite/XjupgHw3Fj" target="_blank">servidor da Godly Radio</a>
 
 Você pode acessar a página de comandos <a href="/comandos">clicando aqui!</a>
 
 ### O prefixo dos comandos é **/**
-
-### Se ainda estiver com dúvidas, <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScTCbGIZxPb4wNQ7HZtOIhixfmf5BB1UartYgcctcyFWHBn-g/viewform?usp=sf_link">clique aqui!</a>
