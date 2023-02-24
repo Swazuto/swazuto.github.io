@@ -1,0 +1,21 @@
+[{
+        "name": "help",
+        "description": "Precisa de ajuda?",
+        "examples": [
+            "help"
+        ]
+    },{
+        "name": "invite",
+        "description": "Quer adicionar o Xurumin em outros servidores?",
+        "examples": [
+            "invite"
+        ]
+    },
+    {
+        "name": "util configurar",
+        "description": "Configure um canal para tocar músicas!",
+        "examples": [
+            "/util configurar \nO bot irá criar um chat para ter as músicas requisitadas, \ne os comandos de play serão desabilitados"
+        ]
+    }
+]
