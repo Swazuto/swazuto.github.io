@@ -87,43 +87,11 @@ const copyToClipboard = (str, elm, event) => {
 var command_list = {
     music: {
         title: "Música",
-        url: "https://raw.githubusercontent.com/xurumin/aboutme/main/help/ptbr/website/commands/music.json"
-    },
-    podcast: {
-        title: "Podcast",
-        url: "https://raw.githubusercontent.com/xurumin/aboutme/main/help/ptbr/website/commands/podcast.json"
-    },
-    memes: {
-        title: "Memes",
-        url: "https://raw.githubusercontent.com/xurumin/aboutme/main/help/ptbr/website/commands/memes.json"
-    },
-    image: {
-        title: "Imagens",
-        url: "https://raw.githubusercontent.com/xurumin/aboutme/main/help/ptbr/website/commands/image.json"
-    },
-    // videos: {
-    //     title: "Vídeos",
-    //     url: "https://raw.githubusercontent.com/xurumin/aboutme/main/help/ptbr/website/commands/videos.json"
-    // },
-    gifs: {
-        title: "Gifs",
-        url: "https://raw.githubusercontent.com/xurumin/aboutme/main/help/ptbr/website/commands/gifs.json"
-    },
-    games: {
-        title: "Jogos",
-        url: "https://raw.githubusercontent.com/xurumin/aboutme/main/help/ptbr/website/commands/games.json"
-    },
-    notifications: {
-        title: "Notificações",
-        url: "https://raw.githubusercontent.com/xurumin/aboutme/main/help/ptbr/website/commands/notifications.json"
-    },
-    social: {
-        title: "Social",
-        url: "https://raw.githubusercontent.com/xurumin/aboutme/main/help/ptbr/website/commands/social.json"
+        url: "https://raw.githubusercontent.com/Swazuto/swazuto.github.io/main/comandos/music.json"
     },
     general: {
         title: "Gerais",
-        url: "https://raw.githubusercontent.com/xurumin/aboutme/main/help/ptbr/website/commands/general.json"
+        url: "https://raw.githubusercontent.com/Swazuto/swazuto.github.io/main/comandos/general.json"
     }
 }
 
