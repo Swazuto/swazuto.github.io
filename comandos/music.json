@@ -1,0 +1,48 @@
+[
+  {
+    "name": "play",
+    "description": "Reproduza músicas do Spotify, Deezer, SoundCloud e muito mais!",
+    "examples": [
+      "play <link para o vídeo ou playlist>",
+      "play https://open.spotify.com/playlist/37i9dQZF1E39qhfR7LdUvn?si=a132d9d7bad8445f",
+      "play never gonna give you up"
+    ]
+  },
+  {
+    "name": "skip",
+    "description": "Música chata tocando? Pule ela!",
+    "examples": [
+      "skip"
+    ]
+  },
+  {
+    "name": "leave",
+    "description": "Cansou de música? Tudo bem! Eu volto depois :)",
+    "examples": [
+      "leave"
+    ]
+  },
+  {
+    "name": "shuffle",
+    "description": "Mude a ordem da playlist",
+    "examples": [
+      "shuffle"
+    ]
+  },
+  {
+    "name": "queue",
+    "description": "Veja sua lista de músicas",
+    "examples": [
+      "queue"
+    ]
+  },
+  {
+    "name": "lyrics",
+    "description": "Veja a letra da música que está tocando e cante junto",
+    "examples": [
+       "lyrics < nome da música >",
+       "lyrics",
+      "lyrics bad guy"
+    ]
+  }
+]

@@ -113,7 +113,7 @@ p {
 }
 
 #blog_content h1 {
-    color: #8A43A9;
+    color: #000000;
     margin-top: 0;
     font-size: 32px;
     font-weight: 700 !important;
@@ -226,7 +226,7 @@ p {
         font-size: 20px;
     }
     #blog_content h1 {
-        color: #8A43A9;
+        color: #000000;
         margin-top: 0;
         font-size: 3.052rem;
         font-weight: 700 !important;

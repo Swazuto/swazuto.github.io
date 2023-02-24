@@ -192,7 +192,7 @@ function generateCommand(cmd) {
 
     for (var elm of cmd.examples) {
         examples +=
-            `<li class="cmd_click_to_copy" onclick="copyToClipboard(this.innerHTML, this, event)" title="Clique para copiar"">x!${elm}</li>\n`
+            `<li class="cmd_click_to_copy" onclick="copyToClipboard(this.innerHTML, this, event)" title="Clique para copiar"">/${elm}</li>\n`
     }
     var template = `<div class="command ${nsfw}" anm2t="animate__fadeInUp" id="${cmd.name}">
                         <div class="row justify-content-between align-items-center strt" onclick="showDet('${cmd.name}')">
@@ -207,9 +207,6 @@ function generateCommand(cmd) {
                        </div>
                         <div class="row justify-content-between align-items-center detail hide">
                             <div class="col-12 col-md open">
-                                <p class="aliases_title">Sinônimos:</p>
-                                <p class="aliases">${cmd.aliases.join(", ")}</p>
-
                                 <p class="exmp">Exemplos:</p>
                                 <ul>
                                     ${examples}
