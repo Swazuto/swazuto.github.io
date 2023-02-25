@@ -1,9 +1,3 @@
-/**
- * Discord Embed Builder
- * Contribute or report issues at
- * https://github.com/Glitchii/embedbuilder
- */
-
 window.options ??= {};
 window.inIframe ??= top !== self;
 mainHost = "swazuto.github.io";
@@ -211,7 +205,7 @@ let jsonObject = window.json || {
             url: "https://cdn.discordapp.com/embed/avatars/0.png"
         },
         image: {
-            url: "https://glitchii.github.io/embedbuilder/assets/media/banner.png"
+            url: "https://swazuto.github.io/assets/media/banner.png"
         },
         footer: {
             text: "Texto da Footer",
